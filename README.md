@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello from a noob...👋
 
 <!--
 **RaviKavaiya/RaviKavaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+⚡ Did you know? The root is at the top of the tree :anguished:

@@ -1,4 +1,4 @@
-### Hello from a noob...👋
+### Hello 👋
 
 <!--
 **RaviKavaiya/RaviKavaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
